@@ -1,7 +1,9 @@
 # Hi, I'm Eduard Herman 👋
 
 🎓 Final-year **Bachelor of Computing (Software Engineering)** student at Belgium Campus iTversity, Pretoria. 74.6% weighted average.
+
 🛠️ Ten years as a construction foreman leading teams on major road, bridge and mining projects, now building software.
+
 🚀 Looking for a **2027 software development role / WIL placement**.
 
 ### 💻 Tech
